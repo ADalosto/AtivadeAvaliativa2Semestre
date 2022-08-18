@@ -1,0 +1,10 @@
+C:\Users\aluno\source\repos\AtividadeAvaliativaCSHARP_2°Semestre\AtividadeAvaliativaCSHARP_2°Semestre\bin\Debug\AtividadeAvaliativaCSHARP_2°Semestre.exe.config
+C:\Users\aluno\source\repos\AtividadeAvaliativaCSHARP_2°Semestre\AtividadeAvaliativaCSHARP_2°Semestre\bin\Debug\AtividadeAvaliativaCSHARP_2°Semestre.exe
+C:\Users\aluno\source\repos\AtividadeAvaliativaCSHARP_2°Semestre\AtividadeAvaliativaCSHARP_2°Semestre\bin\Debug\AtividadeAvaliativaCSHARP_2°Semestre.pdb
+C:\Users\aluno\source\repos\AtividadeAvaliativaCSHARP_2°Semestre\AtividadeAvaliativaCSHARP_2°Semestre\obj\Debug\AtividadeAvaliativaCSHARP_2°Semestre.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\AtividadeAvaliativaCSHARP_2°Semestre\AtividadeAvaliativaCSHARP_2°Semestre\obj\Debug\AtividadeAvaliativaCSHARP_2_Semestre.Form1.resources
+C:\Users\aluno\source\repos\AtividadeAvaliativaCSHARP_2°Semestre\AtividadeAvaliativaCSHARP_2°Semestre\obj\Debug\AtividadeAvaliativaCSHARP_2_Semestre.Properties.Resources.resources
+C:\Users\aluno\source\repos\AtividadeAvaliativaCSHARP_2°Semestre\AtividadeAvaliativaCSHARP_2°Semestre\obj\Debug\AtividadeAvaliativaCSHARP_2°Semestre.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\AtividadeAvaliativaCSHARP_2°Semestre\AtividadeAvaliativaCSHARP_2°Semestre\obj\Debug\AtividadeAvaliativaCSHARP_2°Semestre.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\AtividadeAvaliativaCSHARP_2°Semestre\AtividadeAvaliativaCSHARP_2°Semestre\obj\Debug\AtividadeAvaliativaCSHARP_2°Semestre.exe
+C:\Users\aluno\source\repos\AtividadeAvaliativaCSHARP_2°Semestre\AtividadeAvaliativaCSHARP_2°Semestre\obj\Debug\AtividadeAvaliativaCSHARP_2°Semestre.pdb
